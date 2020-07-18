@@ -1,0 +1,18 @@
+[
+
+
+	{
+		"name" : "Club Factory",
+		"packageName" : "club.fromfactory",
+		"alternative" : [
+
+		]
+	},
+	{
+		"name" : "TikTok",
+		"packageName" : "com.zhiliaoapp.musically",
+		"alternative" : [
+
+		]
+}
+]
