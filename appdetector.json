@@ -7,6 +7,13 @@
          
       ]
    },
+ {
+		"name" : "TikTok",
+		"packageName" : "com.zhiliaoapp.musically",
+		"alternative" : [
+
+		]
+},
    {
       "name":"SHAREit",
       "packageName":"com.lenovo.anyshare.gps",
